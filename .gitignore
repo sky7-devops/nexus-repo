@@ -1,0 +1,31 @@
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# macOS folders and files
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+credentials.json
+
+# Logs
+*.log
+logs/
